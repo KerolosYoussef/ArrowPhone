@@ -13,7 +13,7 @@ Project is created with:
 ## Steps to run the project in your machine
 * Open PHPMyAdmin (http://localhost/phpmyadmin)
 * Create a database with name hosptial_management_system
-* Import hms.sql file(given SQL file folder)
+* Import hospital_management_system.sql file(given SQL file folder)
 * run your website
 ## Login Details
 - User 
